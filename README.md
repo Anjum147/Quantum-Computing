@@ -1,5 +1,5 @@
 # Quantum-Computing
-LCU Pauli Decomposition
+
 Linear Combination of Unitaries (LCU) Pauli Decomposition for Quantum Simulation
 Overview
 This repository implements a framework for simulating quantum evolution using Linear Combination of Unitaries (LCU) with Pauli decomposition. The method enables the implementation of non-unitary operations on quantum systems by combining unitary Pauli operations with an ancilla-assisted protocol.
